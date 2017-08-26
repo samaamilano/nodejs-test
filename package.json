@@ -1,0 +1,14 @@
+{
+  "name": "fristexpress",
+  "version": "1.0.0",
+  "description": " my frist nodejs with  express  framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samaa milano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
